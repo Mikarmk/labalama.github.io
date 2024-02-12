@@ -1,0 +1,20 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.search-box {
+    margin-top: 20px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
